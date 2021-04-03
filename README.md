@@ -16,7 +16,9 @@ const samuel = {
 ```
 ---
 
-### Y otro poco sobre mi trabajo ...
+### ¿Algo más? Me encantan las métricas...
+Estás son algunas relacionadas con mi trabajo en Github
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -91,11 +93,6 @@ Vue                      3 repos             ███████████�
 JavaScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/SamsarDev/SamsarDev/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
