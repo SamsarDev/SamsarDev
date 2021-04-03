@@ -16,6 +16,10 @@ const samuel = {
 ```
 ---
 
+### Y otro poco sobre mi trabajo ...
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### ¿Puedo ayudarte en algo?
 Charlemos ... para mí será un gusto conocer a alguien nuevo.
 
