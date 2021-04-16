@@ -26,7 +26,7 @@ Estás son algunas relacionadas con mi trabajo en Github
 
 > 🏆 15 Contributions in the Year 2021
  > 
-> 📦 339 Bytes Used in Github's Storage 
+> 📦 341 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
