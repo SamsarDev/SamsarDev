@@ -8,15 +8,19 @@ Soy un geek :space_invader: apasionado por la programación, la lectura y el apr
 
 ## :briefcase: Me encanta trabajar con estos lenguajes, frameworks y herramientas:
 
-> Lenguajes
+
+<details>
+    <summary>Lenguajes</summary>   
 
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)]()
-
-> Frameworks
-
+</details>
+<br />
+<details>
+    <summary>Frameworks</summary>   
+    
 [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)]()
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)]()
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
@@ -27,9 +31,11 @@ Soy un geek :space_invader: apasionado por la programación, la lectura y el apr
 [![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)]()
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
-
-> Herramientas
-
+</details>
+<br />
+<details>
+    <summary>Herramientas</summary>   
+    
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
 [![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Strapi](https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)]()
@@ -37,108 +43,36 @@ Soy un geek :space_invader: apasionado por la programación, la lectura y el apr
 [![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)]()
 [![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)]()
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)]()
-
-> Bases de Datos
-
+</details>
+<br />
+<details>
+    <summary>Bases de Datos</summary>   
+    
 [![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
 [![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
-
-> Diseño
-
+</details>
+<br />
+<details>
+    <summary>Diseño</summary>   
+    
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)]()
 [![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)]()
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)]()
-
+</details>
 <br />
 
 ## :heart: Amo las métricas :heart:
-Por eso uno de mis repos favoritos es este: [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats), junto con Wakatime te dan métricas increíbles.
+Por eso uno de mis repos favoritos es este: [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats).
 
-<br />
+<details>
+    <summary>Junto con Wakatime te da métricas increíbles como estas:</summary> 
+
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-94212%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 55 Contributions in the Year 2021
- > 
-> 📦 13.2 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    11 commits     █████░░░░░░░░░░░░░░░░░░░░   22.45% 
-🌆 Daytime    9 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
-🌃 Evening    26 commits     █████████████░░░░░░░░░░░░   53.06% 
-🌙 Night      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       20 commits     ██████████░░░░░░░░░░░░░░░   40.82% 
-Tuesday      8 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
-Wednesday    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04% 
-Saturday     17 commits     ████████░░░░░░░░░░░░░░░░░   34.69% 
-Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Guatemala
-
-💬 Programming Languages: 
-Vue.js                   2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   44.66% 
-ASP.NET                  1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.9% 
-VB.NET                   45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08% 
-Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
-SCSS                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.18%
-
-🔥 Editors: 
-VS Code                  5 hrs 14 mins       ██████████████████████░░░   90.1% 
-Unknown Editor           30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
-Visual Studio            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31%
-
-🐱‍💻 Projects: 
-progrentisprost          5 hrs 13 mins       ██████████████████████░░░   89.71% 
-Unknown Project          30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
-progrentispro            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31% 
-DimensionLec             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
-
-💻 Operating System: 
-Windows                  5 hrs 19 mins       ██████████████████████░░░   91.41% 
-Unknown OS               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.59%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               9 repos             ██████████████████░░░░░░░   75.0% 
-Vue                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
-
-```
-
-
-
- Last Updated on 10/11/2021
 <!--END_SECTION:waka-->
 
-<br />
+</details>
 
 ## ¿Necesitas ayuda? Para mí siempre es un gusto dar una mano ...
 Puedes encontrarme en:
@@ -158,9 +92,7 @@ O también en alguna de estas páginas:
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/SamsarDev)
 <hr />
 
-<p align="center">
-<strong>¡Nunca dejes de rockear!</strong>
-</p>
+<h3 align="center">¡Nunca dejes de rockear!</h3>
 <p align="center">
 <img src="https://media.giphy.com/media/ZEOAnq3ockGojO0E7n/giphy.gif" width="50">
 </p>
