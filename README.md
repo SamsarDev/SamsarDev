@@ -78,6 +78,7 @@ Por eso uno de mis repos favoritos es este: [anmol098/waka-readme-stats](https:/
 
 <details>
     <summary>Junto con Wakatime te da métricas increíbles como estas:</summary> 
+ <br/>  
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-94212%20lines%20of%20code-blue)
