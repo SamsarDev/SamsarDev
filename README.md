@@ -124,16 +124,16 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-Other                    1 hr                █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Unknown Editor           1 hr                █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr                █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               1 hr                █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -148,7 +148,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2021
+ Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
 
 </details>
