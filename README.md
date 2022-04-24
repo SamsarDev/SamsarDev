@@ -87,7 +87,7 @@ Por eso uno de mis repos favoritos es este: [anmol098/waka-readme-stats](https:/
 
 > 🏆 5 Contributions in the Year 2022
  > 
-> 📦 14.2 kB Used in GitHub's Storage 
+> 📦 13.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -153,7 +153,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/04/2022 18:44:18 UTC
+ Last Updated on 24/04/2022 18:46:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
