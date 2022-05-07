@@ -1,5 +1,5 @@
 [![Header](https://raw.githubusercontent.com/SamsarDev/SamsarDev/master/assets/SD_Banner.png "Header")](https://github.com/SamsarDev)
-<p>- <em>Semi Senior Developer en <a href="https://www.progrentis.com/">Progrentis.</a></em></p>
+<p>- <em>Senior Full-Stack Developer en <a href="https://www.digitalgeko.com/">Digital Geko.</a></em></p>
 <hr />
 
 # Te cuento un poco sobre mí ...
