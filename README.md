@@ -43,8 +43,8 @@ Soy un geek :space_invader: apasionado por la programación, la lectura y el apr
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
 [![Strapi](https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)](https://strapi.io/)
 [![ChartJS](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
-[![ThreeJS](https://img.shields.io/badge/ThreeJs-yellow?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
-[![Phaser](https://img.shields.io/badge/Phaser-black?style=for-the-badge&logo=three.js&logoColor=white](https://phaser.io/)
+[![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
+[![Phaser](https://img.shields.io/badge/Phaser-yellow?style=for-the-badge&logo=starship&logoColor=white)](https://phaser.io/)
 [![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](https://storybook.js.org/)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
     
