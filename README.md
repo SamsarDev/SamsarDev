@@ -125,16 +125,17 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       10 mins             █████████████████████████   99.5% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ApplePay_WCF             10 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.0%
 
 ```
 
@@ -150,7 +151,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2022 18:57:57 UTC
+ Last Updated on 09/11/2022 18:47:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
