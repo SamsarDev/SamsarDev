@@ -80,7 +80,7 @@ Por eso uno de mis repos favoritos es este: [anmol098/waka-readme-stats](https:/
  <br/>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C600%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C604%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-126%20Thousand%20lines%20of%20code-blue)
 
@@ -160,7 +160,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2022 18:39:03 UTC
+ Last Updated on 17/12/2022 18:36:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
