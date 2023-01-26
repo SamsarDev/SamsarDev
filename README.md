@@ -125,16 +125,16 @@ Sunday       4 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-C#                       3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-BM_ServiceBus_Test       3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -151,7 +151,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/01/2023 18:39:19 UTC
+ Last Updated on 26/01/2023 18:39:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
