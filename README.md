@@ -82,13 +82,13 @@ Por eso uno de mis repos favoritos es este: [anmol098/waka-readme-stats](https:/
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C613%20hrs%2017%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-126%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-206%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 5 Contributions in the Year 2023
  > 
-> 📦 44.0 kB Used in GitHub's Storage 
+> 📦 44.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -151,7 +151,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2023 18:40:36 UTC
+ Last Updated on 17/02/2023 18:39:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
