@@ -1,27 +1,25 @@
-# This is a basic workflow to help you get started with Actions
-name: Waka Readme
+name: Update Readme Dev Stats
 
 on:
-  workflow_dispatch: # for manual workflow trigger
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # runs at every 12AM UTC
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Profile Readme Development Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@V3
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # following flags are required, only if this is not on
-          # profile readme, remove the leading `#` to use them
-          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          #REPOSITORY: <gh_username/gh_username>
-          SHOW_TITLE: TRUE
-          BLOCKS: "-#"
-          TIME_RANGE: "last_7_days"
-          SHOW_TIME: TRUE
-          SHOW_TOTAL: TRUE
-          SHOW_MASKED_TIME: TRUE
-          LANG_COUNT: 10
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          LOCALE: "False"
+          SHOW_UPDATED_DATE: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_EDITORS: "False"
+          SYMBOL_VERSION: "2"
