@@ -79,5 +79,8 @@ Arquitectura       ► Clean Architecture • Domain-Driven Design • Microserv
 [![Correo](https://img.shields.io/badge/Email-samsar.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samsar.dev@gmail.com)
 
 <p align="center">
-  <sub>Construido con propósito didáctico • <em>Fundamentos sobre inmediatez</em></sub>
+  <sub>¡Nunca dejes de rockear!</sub>
+</p>
+<p align="center">
+<img src="https://media.giphy.com/media/ZEOAnq3ockGojO0E7n/giphy.gif" width="50">
 </p>
