@@ -64,13 +64,15 @@ Arquitectura       ► Clean Architecture • Domain-Driven Design • Microserv
 > Métricas automatizadas con [WakaTime](https://wakatime.com) y GitHub Actions.
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-12.29%20million%20Lineas%20de%20c%C3%B3digo-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C494%20hrs%2023%20mins-blue?style=flat-square)
+
+![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-12.29%20million%20Lineas%20de%20c%C3%B3digo-blue?style=flat-square)
 
 **🐱 Mis datos de GitHub** 
 
 > 📦 131.0 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 385 Contribuciones durante el año 2026
+> 🏆 386 Contribuciones durante el año 2026
  > 
 > 🚫 No abierto para contratación
  > 
@@ -78,24 +80,11 @@ Arquitectura       ► Clean Architecture • Domain-Driven Design • Microserv
  > 
 > 🔑 25 Repositorios Privados 
  > 
-**Soy diurno 🐤** 
-
-```text
-🌞 Mañana                 293 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.65 % 
-🌆 Día                    1698 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜   73.32 % 
-🌃 Tarde                  194 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.38 % 
-🌙 Noche                  131 commits         ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.66 % 
-```
-
-
 📊 **Esta semana me dediqué a** 
 
-```text
 💬 Lenguajes: 
-Markdown                 12 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.79 % 
-Other                    11 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.01 % 
-YAML                     6 mins              ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.20 % 
-```
+<svg width="720" viewBox="0 0 720 92" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#E8E6E1">Markdown</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#5C6660">12 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="6" width="147" height="8" rx="4" fill="#9AA39E"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#5C6660">40.79%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#E8E6E1">Other</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#5C6660">11 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="30" width="133" height="8" rx="4" fill="#9AA39E"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#5C6660">37.01%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#E8E6E1">YAML</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#5C6660">6 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="54" width="80" height="8" rx="4" fill="#9AA39E"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#5C6660">22.20%</text></svg>
+
 
 🤖 **AI Coding This Week** 
 
@@ -110,7 +99,7 @@ YAML                     6 mins              ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜�
 
 🧠 1 AI Sessions, 3 AI Prompts
 
-Gemini                   51,875 lines        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#E8E6E1">Gemini</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#5C6660">51,875 lines</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#9AA39E"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#5C6660">100.00%</text></svg>
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
@@ -121,18 +110,12 @@ Gemini                   51,875 lines        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
 **Programo principalmente en JavaScript** 
 
-```text
-JavaScript               14 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.84 % 
-C#                       10 repos            ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.32 % 
-Astro                    1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.63 % 
-Python                   1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.63 % 
-Go Template              1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.63 % 
-```
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#E8E6E1">JavaScript</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#5C6660">14 repos</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="6" width="133" height="8" rx="4" fill="#9AA39E"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#5C6660">36.84%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#E8E6E1">C#</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#5C6660">10 repos</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="30" width="95" height="8" rx="4" fill="#9AA39E"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#5C6660">26.32%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#E8E6E1">Astro</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#5C6660">1 repo</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="54" width="9" height="8" rx="4" fill="#9AA39E"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#5C6660">2.63%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#E8E6E1">Python</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#5C6660">1 repo</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="78" width="9" height="8" rx="4" fill="#9AA39E"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#5C6660">2.63%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#E8E6E1">Go Template</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#5C6660">1 repo</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="102" width="9" height="8" rx="4" fill="#9AA39E"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#5C6660">2.63%</text></svg>
 
 
 
 
- Last Updated on 08/10/2026 16:45:34 UTC
+ Last Updated on 08/10/2026 17:03:15 UTC
 <!--END_SECTION:waka-->
 
 ---
