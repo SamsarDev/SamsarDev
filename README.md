@@ -64,7 +64,7 @@ Arquitectura       ► Clean Architecture • Domain-Driven Design • Microserv
 > Métricas automatizadas con [WakaTime](https://wakatime.com) y GitHub Actions.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C494%20hrs%2023%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C495%20hrs%2030%20mins-blue?style=flat-square)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-12.38%20million%20Lineas%20de%20c%C3%B3digo-blue?style=flat-square)
 
@@ -72,7 +72,7 @@ Arquitectura       ► Clean Architecture • Domain-Driven Design • Microserv
 
 > 📦 131.2 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 419 Contribuciones durante el año 2026
+> 🏆 421 Contribuciones durante el año 2026
  > 
 > 🚫 No abierto para contratación
  > 
@@ -82,9 +82,14 @@ Arquitectura       ► Clean Architecture • Domain-Driven Design • Microserv
  > 
 📊 **Esta semana me dediqué a** 
 
+```text
 💬 Lenguajes: 
-<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#E8E6E1">Markdown</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#5C6660">3 hrs 4 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="6" width="195" height="8" rx="4" fill="#9AA39E"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#5C6660">54.19%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#E8E6E1">YAML</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#5C6660">53 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="30" width="57" height="8" rx="4" fill="#9AA39E"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#5C6660">15.75%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#E8E6E1">C#</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#5C6660">47 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="54" width="50" height="8" rx="4" fill="#9AA39E"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#5C6660">13.97%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#E8E6E1">Astro</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#5C6660">14 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="78" width="15" height="8" rx="4" fill="#9AA39E"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#5C6660">4.21%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#E8E6E1">XML</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#5C6660">12 mins</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="102" width="13" height="8" rx="4" fill="#9AA39E"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#5C6660">3.68%</text></svg>
-
+Markdown                 3 hrs 4 mins        ██████████████░░░░░░░░░░░   54.19 % 
+YAML                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+C#                       47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Astro                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+XML                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+```
 
 🤖 **AI Coding This Week** 
 
@@ -99,7 +104,7 @@ Arquitectura       ► Clean Architecture • Domain-Driven Design • Microserv
 
 🧠 14 AI Sessions, 45 AI Prompts
 
-<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#E8E6E1">Gemini</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#5C6660">55,699 lines</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#9AA39E"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#5C6660">100.00%</text></svg>
+Gemini                   55,699 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.97% of written lines came from AI
@@ -110,12 +115,18 @@ Arquitectura       ► Clean Architecture • Domain-Driven Design • Microserv
 
 **Programo principalmente en JavaScript** 
 
-<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#E8E6E1">JavaScript</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#5C6660">14 repos</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="6" width="129" height="8" rx="4" fill="#9AA39E"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#5C6660">35.90%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#E8E6E1">C#</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#5C6660">11 repos</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="30" width="102" height="8" rx="4" fill="#9AA39E"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#5C6660">28.21%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#E8E6E1">Astro</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#5C6660">1 repo</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="54" width="9" height="8" rx="4" fill="#9AA39E"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#5C6660">2.56%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#E8E6E1">Python</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#5C6660">1 repo</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="78" width="9" height="8" rx="4" fill="#9AA39E"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#5C6660">2.56%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#E8E6E1">Go Template</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#5C6660">1 repo</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#00A86B"/><rect x="280" y="102" width="9" height="8" rx="4" fill="#9AA39E"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#5C6660">2.56%</text></svg>
+```text
+JavaScript               14 repos            █████████░░░░░░░░░░░░░░░░   35.90 % 
+C#                       11 repos            ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Go Template              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+```
 
 
 
 
- Last Updated on 10/10/2026 00:40:54 UTC
+ Last Updated on 10/10/2026 00:51:37 UTC
 <!--END_SECTION:waka-->
 
 ---
