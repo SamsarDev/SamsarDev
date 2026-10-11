@@ -84,33 +84,33 @@ Arquitectura       ► Clean Architecture • Domain-Driven Design • Microserv
 
 ```text
 💬 Lenguajes: 
-Markdown                 3 hrs 4 mins        ██████████████░░░░░░░░░░░   54.19 % 
-YAML                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-C#                       47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Astro                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-XML                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Markdown                 3 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   36.08 % 
+YAML                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+C#                       1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+JavaScript               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+XML                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 59 mins (87.99%)
+⏱ AI Coding Time: 8 hrs 28 mins (86.95%)
 
-✍️ 55,699 lines written by AI, 17 lines written by hand (99.97% AI-written)
+✍️ 55,992 lines written by AI, 21 lines written by hand (99.96% AI-written)
 
-🔤 36,371,639 Input Tokens, 1,966,725 Output Tokens
+🔤 41,805,254 Input Tokens, 2,366,285 Output Tokens
 
-💵 $94.07 Estimated AI Cost This Week
+💵 $111.97 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 45 AI Prompts
+🧠 25 AI Sessions, 69 AI Prompts
 
-Gemini                   55,699 lines        █████████████████████████   100.00 % 
+Gemini                   55,992 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📝 Concise Prompter — average 159 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📝 Concise Prompter — average 146 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.21% of changed lines were hand-edited
+🚀 High AI Trust — 0.22% of changed lines were hand-edited
 ```
 
 **Programo principalmente en JavaScript** 
@@ -126,7 +126,7 @@ Go Template              1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 05:05:05 UTC
+ Last Updated on 11/10/2026 04:54:10 UTC
 <!--END_SECTION:waka-->
 
 ---
