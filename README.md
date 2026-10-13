@@ -66,19 +66,19 @@ Arquitectura       ► Clean Architecture • Domain-Driven Design • Microserv
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C499%20hrs%2054%20mins-blue?style=flat-square)
 
-![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-12.50%20million%20Lineas%20de%20c%C3%B3digo-blue?style=flat-square)
+![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-12.58%20million%20Lineas%20de%20c%C3%B3digo-blue?style=flat-square)
 
 **🐱 Mis datos de GitHub** 
 
-> 📦 131.5 kB Almacenamiento de GitHub utilizado 
+> 📦 132.6 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 435 Contribuciones durante el año 2026
+> 🏆 483 Contribuciones durante el año 2026
  > 
 > 🚫 No abierto para contratación
  > 
 > 📜 24 Repositorios Públicos 
  > 
-> 🔑 26 Repositorios Privados 
+> 🔑 28 Repositorios Privados 
  > 
 📊 **Esta semana me dediqué a** 
 
@@ -116,17 +116,17 @@ Gemini                   55,992 lines        ███████████�
 **Programo principalmente en JavaScript** 
 
 ```text
-JavaScript               14 repos            █████████░░░░░░░░░░░░░░░░   35.90 % 
-C#                       11 repos            ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Go Template              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+JavaScript               14 repos            █████████░░░░░░░░░░░░░░░░   34.15 % 
+C#                       11 repos            ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+Vue                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 12/10/2026 05:09:02 UTC
+ Last Updated on 13/10/2026 06:08:18 UTC
 <!--END_SECTION:waka-->
 
 ---
