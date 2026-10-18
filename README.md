@@ -64,13 +64,13 @@ Arquitectura       ► Clean Architecture • Domain-Driven Design • Microserv
 > Métricas automatizadas con [WakaTime](https://wakatime.com) y GitHub Actions.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C514%20hrs%207%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C515%20hrs%2036%20mins-blue?style=flat-square)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-11.91%20million%20Lineas%20de%20c%C3%B3digo-blue?style=flat-square)
 
 **🐱 Mis datos de GitHub** 
 
-> 📦 132.7 kB Almacenamiento de GitHub utilizado 
+> 📦 132.6 kB Almacenamiento de GitHub utilizado 
  > 
 > 🏆 495 Contribuciones durante el año 2026
  > 
@@ -84,35 +84,36 @@ Arquitectura       ► Clean Architecture • Domain-Driven Design • Microserv
 
 ```text
 💬 Lenguajes: 
-Markdown                 5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-JSON                     2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-C#                       2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-YAML                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-TypeScript               1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Markdown                 5 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   31.92 % 
+JSON                     2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+TypeScript               1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+C#                       1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+YAML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs (79.69%)
+⏱ AI Coding Time: 13 hrs 48 mins (77.45%)
 
-✍️ 3,701 lines written by AI, 3,617 lines written by hand (50.57% AI-written)
+✍️ 3,218 lines written by AI, 3,616 lines written by hand (47.09% AI-written)
 
-🔤 9,675,334 Input Tokens, 657,626 Output Tokens
+🔤 4,208,208 Input Tokens, 447,657 Output Tokens
 
-💵 $26.81 Estimated AI Cost This Week
+💵 $18.55 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 204 AI Prompts
+🧠 18 AI Sessions, 188 AI Prompts
 
-Gemini                   3,628 lines         █████████████████████████   98.03 % 
-Opus                     73 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Gemini                   1,934 lines         ███████████████░░░░░░░░░░   59.71 % 
+Opus                     1,305 lines         ██████████░░░░░░░░░░░░░░░   40.29 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.57% of written lines came from AI
-📝 Concise Prompter — average 213 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 50.69% of changed lines were hand-edited
+⚖️ Balanced with AI — 47.09% of written lines came from AI
+📝 Concise Prompter — average 218 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 54.57% of changed lines were hand-edited
 ```
 
 **Programo principalmente en JavaScript** 
@@ -128,7 +129,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 03:39:39 UTC
+ Last Updated on 18/10/2026 03:46:21 UTC
 <!--END_SECTION:waka-->
 
 ---
