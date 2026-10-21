@@ -84,36 +84,36 @@ Arquitectura       ► Clean Architecture • Domain-Driven Design • Microserv
 
 ```text
 💬 Lenguajes: 
-Markdown                 5 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   31.92 % 
-JSON                     2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-TypeScript               1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-C#                       1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-YAML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Markdown                 6 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   41.95 % 
+Python                   3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+C#                       1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+TypeScript               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 48 mins (77.45%)
+⏱ AI Coding Time: 13 hrs 2 mins (83.11%)
 
-✍️ 3,218 lines written by AI, 3,616 lines written by hand (47.09% AI-written)
+✍️ 10,412 lines written by AI, 3,117 lines written by hand (76.96% AI-written)
 
-🔤 4,208,208 Input Tokens, 447,657 Output Tokens
+🔤 4,865,709 Input Tokens, 974,838 Output Tokens
 
-💵 $18.55 Estimated AI Cost This Week
+💵 $67.30 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 188 AI Prompts
+🧠 20 AI Sessions, 136 AI Prompts
 
-Gemini                   1,934 lines         ███████████████░░░░░░░░░░   59.71 % 
-Opus                     1,305 lines         ██████████░░░░░░░░░░░░░░░   40.29 % 
+Opus                     9,281 lines         ██████████████████████░░░   86.50 % 
+Gemini                   1,449 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 47.09% of written lines came from AI
-📝 Concise Prompter — average 218 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 54.57% of changed lines were hand-edited
+🤖 AI-Driven — 76.96% of written lines came from AI
+📝 Concise Prompter — average 368 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 23.79% of changed lines were hand-edited
 ```
 
 **Programo principalmente en JavaScript** 
@@ -129,7 +129,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 04:08:13 UTC
+ Last Updated on 21/10/2026 03:57:05 UTC
 <!--END_SECTION:waka-->
 
 ---
