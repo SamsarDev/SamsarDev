@@ -66,70 +66,69 @@ Arquitectura       ► Clean Architecture • Domain-Driven Design • Microserv
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C524%20hrs%2031%20mins-blue?style=flat-square)
 
-![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-11.95%20million%20Lineas%20de%20c%C3%B3digo-blue?style=flat-square)
+![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-12.54%20million%20Lineas%20de%20c%C3%B3digo-blue?style=flat-square)
 
 **🐱 Mis datos de GitHub** 
 
-> 📦 132.9 kB Almacenamiento de GitHub utilizado 
+> 📦 133.8 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 627 Contribuciones durante el año 2026
+> 🏆 735 Contribuciones durante el año 2026
  > 
 > 🚫 No abierto para contratación
  > 
 > 📜 23 Repositorios Públicos 
  > 
-> 🔑 32 Repositorios Privados 
+> 🔑 33 Repositorios Privados 
  > 
 📊 **Esta semana me dediqué a** 
 
 ```text
 💬 Lenguajes: 
-Markdown                 6 hrs 34 mins       ███████████░░░░░░░░░░░░░░   43.49 % 
-Python                   3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-C#                       1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Vue                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Markdown                 8 hrs 49 mins       ███████████████░░░░░░░░░░   59.86 % 
+Python                   2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Vue                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 2 mins (86.15%)
+⏱ AI Coding Time: 13 hrs 39 mins (92.71%)
 
-✍️ 10,412 lines written by AI, 3,117 lines written by hand (76.96% AI-written)
+✍️ 19,505 lines written by AI, 3,118 lines written by hand (86.22% AI-written)
 
-🔤 4,865,709 Input Tokens, 974,838 Output Tokens
+🔤 5,601,161 Input Tokens, 1,409,750 Output Tokens
 
-💵 $67.30 Estimated AI Cost This Week
+💵 $94.53 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 136 AI Prompts
+🧠 25 AI Sessions, 157 AI Prompts
 
-Opus                     9,281 lines         ██████████████████████░░░   86.50 % 
-Gemini                   1,449 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Opus                     18,519 lines        ███████████████████████░░   93.35 % 
+Gemini                   1,319 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.96% of written lines came from AI
-📝 Concise Prompter — average 368 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 23.79% of changed lines were hand-edited
+🤖 AI-Driven — 86.22% of written lines came from AI
+📄 Detailed Prompter — average 580 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 14.16% of changed lines were hand-edited
 ```
 
 **Programo principalmente en JavaScript** 
 
 ```text
-JavaScript               14 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-C#                       11 repos            ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-Vue                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+JavaScript               14 repos            ████████░░░░░░░░░░░░░░░░░   32.56 % 
+C#                       12 repos            ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+Vue                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 
 
 
- Last Updated on 22/10/2026 03:56:58 UTC
+ Last Updated on 23/10/2026 04:00:49 UTC
 <!--END_SECTION:waka-->
 
 ---
