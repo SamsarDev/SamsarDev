@@ -64,7 +64,7 @@ Arquitectura       ► Clean Architecture • Domain-Driven Design • Microserv
 > Métricas automatizadas con [WakaTime](https://wakatime.com) y GitHub Actions.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C535%20hrs%2035%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C537%20hrs%2025%20mins-blue?style=flat-square)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-12.14%20million%20Lineas%20de%20c%C3%B3digo-blue?style=flat-square)
 
@@ -84,35 +84,35 @@ Arquitectura       ► Clean Architecture • Domain-Driven Design • Microserv
 
 ```text
 💬 Lenguajes: 
-Markdown                 10 hrs 24 mins      ████████████░░░░░░░░░░░░░   48.09 % 
-Python                   5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Vue                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Markdown                 13 hrs 24 mins      █████████████░░░░░░░░░░░░   51.92 % 
+Python                   6 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Other                    1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Vue                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 4 mins (97.3%)
+⏱ AI Coding Time: 25 hrs 14 mins (97.73%)
 
-✍️ 42,849 lines written by AI, 17 lines written by hand (99.96% AI-written)
+✍️ 47,200 lines written by AI, 17 lines written by hand (99.96% AI-written)
 
-🔤 8,912,187 Input Tokens, 2,422,620 Output Tokens
+🔤 9,988,240 Input Tokens, 2,873,290 Output Tokens
 
-💵 $209.82 Estimated AI Cost This Week
+💵 $253.97 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 214 AI Prompts
+🧠 47 AI Sessions, 256 AI Prompts
 
-Opus                     42,249 lines        ████████████████████████░   97.69 % 
-Gemini                   1,000 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Opus                     46,768 lines        ████████████████████████░   97.91 % 
+Gemini                   1,000 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.96% of written lines came from AI
-📄 Detailed Prompter — average 526 characters per prompt
+📄 Detailed Prompter — average 556 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.16% of changed lines were hand-edited
+🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
 
 **Programo principalmente en JavaScript** 
@@ -128,7 +128,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 03:54:17 UTC
+ Last Updated on 26/10/2026 03:58:16 UTC
 <!--END_SECTION:waka-->
 
 ---
