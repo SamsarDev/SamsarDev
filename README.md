@@ -3,7 +3,8 @@
 [![Header](https://raw.githubusercontent.com/SamsarDev/SamsarDev/master/assets/SD_Banner.png)](https://samsar-site.pages.dev/)
 
 # Samuel Sarmientos (Samsar)
-### AI Architect & Technical Lead | Senior Full-Stack Developer | Educador
+### Technical Lead & Software Architect
+IA agéntica (MCP, RAG) · .NET · TypeScript · Azure · DevSecOps
 
 *Código, cultura y curiosidad.*
 
@@ -17,7 +18,7 @@
 
 ## 🏛️ Sobre mí & Filosofía
 
-Llevo cerca de una década en el ciclo completo de desarrollo de software, diseño de sistemas distribuidos y modernización de plataformas críticas.
+Technical Lead y arquitecto de software con cerca de 10 años construyendo y modernizando sistemas para banca, retail, logística y edtech. Desde 2023 diseño la integración de IA generativa y agéntica (RAG, MCP, LangGraph) en operaciones de negocio sobre Azure. Hoy soy Jefe de Tecnología en Talkin'Heads.
 
 - 🤖 **Arquitectura de IA Agéntica:** Diseño flujos autónomos gobernados, tool-calling seguro y arquitecturas con **LangGraph** y **Model Context Protocol (MCP)**.
 - 📐 **Fundamentos sobre inmediatez:** Creo que el código limpio, **Clean Architecture**, **DDD** y la resiliencia en producción valen más que las modas pasajeras.
@@ -135,12 +136,12 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 ## 🤝 Conectemos
 
-¿Querés charlar sobre arquitectura de software, inteligencia artificial o proyectos formativos?
+¿Quieres charlar sobre arquitectura de software, inteligencia artificial o proyectos formativos?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samsar-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamsarDev)
-[![Sitio Web](https://img.shields.io/badge/Web_Oficial-0D9488?style=for-the-badge&logo=firefox&logoColor=white)](https://samsar-site.pages.dev/)
-[![Correo](https://img.shields.io/badge/Email-samsar.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samsar.dev@gmail.com)
+[![Sitio Web](https://img.shields.io/badge/Web_Oficial-0D9488?style=for-the-badge&logo=firefox&logoColor=white)](https://samsar.fyi/)
+[![Correo](https://img.shields.io/badge/Email-contact%40samsar.fyi-0D9488?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contact@samsar.fyi)
 
 <p align="center">
   <sub>¡Nunca dejes de rockear!</sub>
