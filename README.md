@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](https://raw.githubusercontent.com/SamsarDev/SamsarDev/master/assets/SD_Banner.png)](https://samsar-site.pages.dev/)
+[![Header](https://raw.githubusercontent.com/SamsarDev/SamsarDev/master/assets/github-banner-2560x640.png)](https://samsar.fyi/)
 
 # Samuel Sarmientos (Samsar)
 ### Technical Lead & Software Architect
@@ -8,9 +8,9 @@ IA agéntica (MCP, RAG) · .NET · TypeScript · Azure · DevSecOps
 
 *Código, cultura y curiosidad.*
 
-[![Sitio Web](https://img.shields.io/badge/Website-samsar.dev-0D9488?style=for-the-badge&logo=astro&logoColor=white)](https://samsar-site.pages.dev/)
+[![Sitio Web](https://img.shields.io/badge/Website-samsar.dev-0D9488?style=for-the-badge&logo=astro&logoColor=white)](https://samsar.fyi/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Sarmientos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samsar-dev)
-[![Blog](https://img.shields.io/badge/Blog-Samsar|Dev%20•%20IA%20•%20Games-1E293B?style=for-the-badge&logo=hashnode&logoColor=white)](https://samsar-site.pages.dev//blog)
+[![Blog](https://img.shields.io/badge/Blog-Samsar|Dev%20•%20IA%20•%20Games-1E293B?style=for-the-badge&logo=hashnode&logoColor=white)](https://samsar.fyi/blog/)
 
 </div>
 
