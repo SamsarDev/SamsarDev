@@ -27,13 +27,13 @@ Technical Lead y arquitecto de software con cerca de 10 años construyendo y mod
 
 ---
 
-## 🚀 Ecosistema de Contenido en [samsar.dev](https://samsar-site.pages.dev/)
+## 🚀 Ecosistema de Contenido en [samsar.fyi](https://samsar.fyi/)
 
 | Pilar | Enfoque | Dónde leer |
 |---|---|---|
-| **Samsar \| Dev** | Arquitectura limpia, minimal APIs, TypeScript y patrones resilientes | [Ver artículos](https://samsar-site.pages.dev//blog/samsar-dev) |
-| **Samsar \| IA** | Sistemas multi-agente, MCP, RAG híbrido y gobierno de modelos | [Ver artículos](https://samsar-site.pages.dev//blog/samsar-ia) |
-| **Samsar \| Games** | Diseño lúdico, dinámicas familiares y pedagogía con código | [Ver artículos](https://samsar-site.pages.dev//blog/samsar-games) |
+| **Samsar \| Dev** | Arquitectura limpia, minimal APIs, TypeScript y patrones resilientes | [Ver artículos](https://samsar.fyi/blog/samsar-dev) |
+| **Samsar \| IA** | Sistemas multi-agente, MCP, RAG híbrido y gobierno de modelos | [Ver artículos](https://samsar.fyi/blog/samsar-ia) |
+| **Samsar \| Games** | Diseño lúdico, dinámicas familiares y pedagogía con código | [Ver artículos](https://samsar.fyi/blog/samsar-games) |
 
 ---
 
